@@ -7,7 +7,7 @@ variable "subnet_no" {
 }
 
 variable "server_name" {
-  default = "sy-terraform-test"
+  default = "hi-terraform-test"
 }
 
 variable "server_image_product_code" {
