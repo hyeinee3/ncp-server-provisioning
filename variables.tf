@@ -11,7 +11,7 @@ variable "server_name" {
 }
 
 variable "server_image_product_code" {
-  default = "" // 추가 필요 
+  default = "SW.VSVR.OS.LNX64.CNTOS.0703.B050"
 }
 
 variable "server_login_key_name" {
