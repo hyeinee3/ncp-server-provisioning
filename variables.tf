@@ -19,5 +19,5 @@ variable "server_login_key_name" {
 }
 
 output "instance_ip_addr" {
-  value = aws_instance.server.private_ip
+  value = "1.1.1.1"
 }
