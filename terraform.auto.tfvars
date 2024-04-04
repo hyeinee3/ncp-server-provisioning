@@ -1,6 +1,6 @@
 region = "KR"
 
-subnet_no = "66177"
+subnet_no = "141318"
 
 server_name = "hi-ncp-demo-server"
 
